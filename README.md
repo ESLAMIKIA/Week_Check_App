@@ -1,3 +1,4 @@
+
 # 📅 Week Check
 
 <p align="center">
@@ -88,7 +89,8 @@ WeekCheck/
 ## 📸 Screenshots
 
 <p align="center">
-  <!-- Add your application screenshots here -->
+  <img width="1080" height="2400" alt="Screenshot_20261113_185014" src="https://github.com/user-attachments/assets/da603a7a-9d2e-4b1b-8248-a0d9e44aa0dd" />
+ <img width="1080" height="2400" alt="Screenshot_20261113_185006" src="https://github.com/user-attachments/assets/3a9a9316-893c-4087-9860-44ceaa5bb99c" />
 </p>
 
 ## 📥 Installation
