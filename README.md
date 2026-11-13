@@ -89,8 +89,15 @@ WeekCheck/
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="1080" height="2400" alt="Screenshot_20261113_185014" src="https://github.com/user-attachments/assets/da603a7a-9d2e-4b1b-8248-a0d9e44aa0dd" />
- <img width="1080" height="2400" alt="Screenshot_20261113_185006" src="https://github.com/user-attachments/assets/3a9a9316-893c-4087-9860-44ceaa5bb99c" />
+  <img src="https://github.com/user-attachments/assets/da603a7a-9d2e-4b1b-8248-a0d9e44aa0dd"
+       width="280"
+       alt="Week Check Screenshot 1" />
+
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://github.com/user-attachments/assets/3a9a9316-893c-4087-9860-44ceaa5bb99c"
+       width="280"
+       alt="Week Check Screenshot 2" />
 </p>
 
 ## 📥 Installation
